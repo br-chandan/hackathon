@@ -1,0 +1,19 @@
+End Points
+Get all aptitude questions
+ https://aptitude-api.vercel.app/Random
+Get questions only on Mixture and Alligation topic
+  https://aptitude-api.vercel.app/MixtureAndAlligation
+Get questions only on Age topic
+  https://aptitude-api.vercel.app/Age
+Get questions only on Permutation and Combination topic
+  https://aptitude-api.vercel.app/PermutationAndCombination
+Get questions only on Profit and Loss topic
+  https://aptitude-api.vercel.app/ProfitAndLoss
+Get questions only on Pipes and Cisterns topic
+  https://aptitude-api.vercel.app/PipesAndCistern
+Get questions only on Speed Time Distance topic
+  https://aptitude-api.vercel.app/SpeedTimeDistance
+Get questions only on Calendars topic
+  https://aptitude-api.vercel.app/Calendar
+Get questions only on Simple Interest topic
+  https://aptitude-api.vercel.app/SimpleInterest
